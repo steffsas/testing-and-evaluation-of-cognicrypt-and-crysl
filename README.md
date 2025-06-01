@@ -3,7 +3,7 @@
 This repository contains the materials and findings from my Bachelor's thesis titled **"Testing and Evaluation of CogniCrypt and CrySL in the Context of Non-Cryptography-related API Misuses"**, submitted in April 2021 at the University of Paderborn.
 
 > 📄 **Published Work**: This thesis formed the basis for the peer-reviewed paper  
-> [**"EFUM - A Framework for API Usage constraint and Misuse Classification"**](https://ieeexplore.ieee.org/document/9825763),  
+> [**"FUM - A Framework for API Usage constraint and Misuse Classification"**](https://ieeexplore.ieee.org/document/9825763),  
 > presented at the *2022 IEEE 29th International Conference on Software Analysis, Evolution and Reengineering (SANER)*.
 
 ## 📚 Abstract
