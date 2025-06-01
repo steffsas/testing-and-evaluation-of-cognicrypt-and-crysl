@@ -40,20 +40,12 @@ To support this, we developed a comprehensive **classification framework of API 
 - **CogniCrypt cannot detect** many common misuses outside of its original domain.
 - With minor **language extensions**, CrySL could support many typical non-crypto usage patterns.
 
-## 📁 Repository Contents
-
-- `specs/`: CrySL specifications created or adapted
-- `examples/`: Sample Java code used for evaluation
-- `docs/`: Thesis document and supporting materials
 
 ## 📄 Citation
 
 If you use this work, please cite the IEEE paper:
 
-> Steffen Sassalla, Eric Bodden.  
-> *Extending CrySL for the Detection of API Misuses Beyond Cryptographic APIs.*  
-> In: Proceedings of the 2022 IEEE 29th International Conference on Software Analysis, Evolution and Reengineering (SANER).  
-> DOI: [10.1109/SANER53432.2022.00057](https://doi.org/10.1109/SANER53432.2022.00057)
+> M. Schlichtig, S. Sassalla, K. Narasimhan and E. Bodden, "FUM - A Framework for API Usage constraint and Misuse Classification," 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Honolulu, HI, USA, 2022, pp. 673-684, doi: 10.1109/SANER53432.2022.00085.
 
 ## 📬 Contact
 
